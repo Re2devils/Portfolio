@@ -19,8 +19,7 @@
 ## Table of Contents
 
 - [Home](#home)
-- [About](#about)
-- [Skills](#skills)
+- [Overview](#overview)
 - [Contact](#contact)
 <!-- OVERVIEW -->
 
